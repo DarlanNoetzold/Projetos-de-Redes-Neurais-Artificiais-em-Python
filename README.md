@@ -12,7 +12,7 @@
 ## Curso:
 * <a href="https://www.udemy.com/course/redes-neurais-artificiais-em-python/">Link do Curso</a> 
 * Image:
-<img src="https://github.com/DarlanNoetzold/Projetos-de-Redes-Neurais-Artificiais-em-Python/blob/master/Screenshot_1.jpg" align="center"  width="30%"/>
+<img src="https://github.com/DarlanNoetzold/Projetos-de-Redes-Neurais-Artificiais-em-Python/blob/master/Screenshot_1.jpg" align="center"/>
 
 ---
 
